@@ -9,7 +9,12 @@ module.exports = function(grunt) {
 				separator: '/**/'
 			},
 			dist: {
-				src: ['../public/css/cssDev/base.css', '../public/css/cssDev/skeleton.css', '../public/css/cssDev/layout.css'],
+				src: [
+					'../public/css/cssDev/base.css',
+					'../public/css/cssDev/skeleton.css',
+					'../public/css/cssDev/layout.css',
+					'../public/css/cssDev/selfStyle.css'
+				],
 				dest: '../public/css/self.css'
 			}
 		},

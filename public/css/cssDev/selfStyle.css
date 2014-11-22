@@ -1,0 +1,25 @@
+/*
+main color scheme
+=================
+
+orange : #ed8a3f
+green: 8db87c
+yellow: f5d769
+*/
+
+a {
+  color: #ed8a3f!important;
+  text-decoration: none;
+}
+
+.orange {
+  color:#ed8a3f;
+}
+
+.green {
+  color: #8db87c;
+}
+
+.yellow {
+  color:#f5d769;
+}
