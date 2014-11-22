@@ -21,4 +21,5 @@ require.config({
 		}
 	}
 })
+
 require(['self'],function( self ){});
