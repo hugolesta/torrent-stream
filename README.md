@@ -19,4 +19,4 @@ nodemon app.js
 ```
 
   Now you have the app running on port 5050, go to the browser and type "localhost:5050" and you should see the
-  Torrent-stream page
+  Torrent-stream page.
